@@ -30,8 +30,8 @@ or:
 
 ```js
 {
-  "plugins": [ "tap-given" ],
   "eslintConfig": {
+    "plugins": [ "tap-given" ],
     "env": {
       "tap-given/tap-given": true
     }
